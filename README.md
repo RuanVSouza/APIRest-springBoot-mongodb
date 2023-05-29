@@ -46,8 +46,8 @@ Sistema onde usuarios podem fazer posts e outros podem comentar
 
 {  
     
-    "nome": "*nome do usuario*"
-    "email : "*email do usuario *"
+    "nome": "*novo nome do usuario*"
+    "email : "*novo email do usuario *"
 }
 
 #### CRIAR UM USUARIO
