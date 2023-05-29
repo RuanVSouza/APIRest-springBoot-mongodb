@@ -1,6 +1,6 @@
 
 ##  Sistema de Posts  
-Sistema onde usuarios podem fazer posts e outros podem comentar
+Sistema onde usuarios podem fazer posts e serem comentados, informando nomes, datas e horarios correspondentes aos posts e comentarios
 
 ## Tecnologias utilizadas
 
